@@ -12,7 +12,7 @@ _read_txt: reads the txt files_
 
 _web: starts a webpage by URL_
 
-_change_login: changes the username and password-
+_change_login: changes the username and password_
 
 _sysinfo: gives the system info_
 
