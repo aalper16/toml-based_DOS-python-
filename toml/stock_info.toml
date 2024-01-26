@@ -1,0 +1,5 @@
+[[ login_name ]]
+name = "user"
+
+[[ login_passwd ]]
+passwd = "password"
