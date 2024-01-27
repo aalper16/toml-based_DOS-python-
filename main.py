@@ -193,6 +193,7 @@ if name == stock_info['login_name'][0]['name'] and stock_info['login_passwd'][0]
             if sure == 'y' or sure == 'Y':
                 os.remove(doc_name3)
             elif sure == 'n' or sure == 'N':
+      
                 continue
             else:
                 print('not a parameter!')
